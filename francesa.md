@@ -12,3 +12,7 @@ Un menú francés destaca por su refinamiento y la armonía de sus sabores, dond
 - Vino tinto (Burdeos).
 - Champán.
 - Café francés (Café au Lait).
+
+## Consejos
+- Usa ingredientes frescos para mejores resultados.
+- Acompaña con Escargots de Bourgogne para una experiencia completa.
