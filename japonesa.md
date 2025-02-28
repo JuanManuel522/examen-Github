@@ -7,3 +7,8 @@ Un menú japonés se caracteriza por la frescura y la delicadeza de sus ingredie
 - **Sushi**: consiste en pequeñas porciones de arroz avinagrado acompañadas de pescado crudo, mariscos o vegetales, con una delicada capa de alga nori. El sushi resalta la frescura del pescado y el equilibrio entre el arroz y el vinagre.
 - **Ramen**: Un delicioso tazón de fideos de trigo servidos en un caldo sabroso, que puede ser miso, shoyu (soja) o tonkotsu (cerdo), y generalmente acompañado de huevo cocido, carnes, brotes de bambú y cebollines. Un plato reconfortante que combina sabores profundos y una textura suave.
 - **Tempura**: Mariscos y verduras rebozados y fritos hasta quedar crujientes, servidos con una ligera salsa de soja para mojar. El tempura tiene una textura crujiente y ligera que complementa perfectamente el sabor natural de los ingredientes.
+
+## Bebidas Recomendadas
+- Té verde (Matcha o Sencha).
+- Sake.
+- Shochu.
