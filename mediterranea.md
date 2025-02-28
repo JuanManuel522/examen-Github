@@ -7,3 +7,8 @@ Un menú mediterráneo se caracteriza por ingredientes frescos y saludables, des
 - **Paella**: Un arroz con mariscos, pollo, conejo y verduras, sazonado con azafrán y pimentón, que ofrece una mezcla de sabores intensos y un toque de dulzura de los mariscos.
 - **Moussaka**: Un plato tradicional griego, con capas de berenjena, carne de cordero o res, cubierto con una salsa bechamel cremosa, creando una combinación de texturas y sabores ricos.
 - **Grilled Sardines (Sardinas a la parrilla)**: Sardinas frescas asadas con aceite de oliva, ajo y limón, que resaltan el sabor natural del pescado con un toque de hierbas mediterráneas.
+
+## Bebidas Recomendadas
+- Vino tinto (Tempranillo).
+- Retsina (vino griego).
+- Ouzo.
