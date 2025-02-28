@@ -12,3 +12,7 @@ Un menú de la India es una explosión de sabores intensos y complejos, donde pr
 - Lassi (dulce o salado).
 - Chai (té masala).
 - Nimbu Pani (agua de limón con especias).
+
+## Consejos
+- Usa ingredientes frescos para mejores resultados.
+- Acompaña con Pakora para una experiencia completa.
