@@ -12,3 +12,7 @@ Un menú japonés se caracteriza por la frescura y la delicadeza de sus ingredie
 - Té verde (Matcha o Sencha).
 - Sake.
 - Shochu.
+
+## Consejos
+- Usa ingredientes frescos para mejores resultados.
+- Acompaña con edamame de soja para una experiencia completa.
