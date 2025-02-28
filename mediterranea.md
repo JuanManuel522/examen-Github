@@ -12,3 +12,8 @@ Un menú mediterráneo se caracteriza por ingredientes frescos y saludables, des
 - Vino tinto (Tempranillo).
 - Retsina (vino griego).
 - Ouzo.
+
+## Consejos
+## Consejos
+- Usa ingredientes frescos para mejores resultados.
+- Acompaña con Bruschetta para una experiencia completa.
