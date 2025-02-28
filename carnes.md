@@ -12,3 +12,7 @@ Un menú de carnes se destaca por el uso de cortes de carne de alta calidad como
 - Vino tinto (Cabernet Sauvignon).
 - Cerveza artesanal.
 - Cóctel Old Fashioned.
+
+## Consejos
+- Usa ingredientes frescos para mejores resultados.
+- Acompaña con Carpaccio de res para una experiencia completa.
