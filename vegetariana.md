@@ -1,1 +1,4 @@
 # Menú Cocina Vegetariana
+
+## Descripción
+Un menú vegetariano se centra en ingredientes frescos y naturales, destacando el uso de verduras de temporada, legumbres como garbanzos y lentejas, cereales como el quinoa y el arroz integral, y frutos secos como las almendras y nueces. Los sabores son frescos y vibrantes, con un equilibrio entre lo salado, lo dulce y lo ácido, gracias a ingredientes como el aguacate, el tomate, el limón, las hierbas frescas (como albahaca, cilantro y perejil) y el ajo. Platos como ensaladas frescas, falafel y curry de vegetales ofrecen una mezcla de texturas, desde crujientes hasta suaves, y son sazonados con especias como el comino, la cúrcuma y el pimentón para darles profundidad y complejidad.
