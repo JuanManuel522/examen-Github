@@ -12,3 +12,7 @@ Un menú chino se caracteriza por una rica combinación de sabores salados, dulc
 - Té de jazmín
 - Bebida de lichi
 - Té verde
+
+## Consejos
+- Usa ingredientes frescos para mejores resultados.
+- Acompaña con Dumplings para una experiencia completa.
