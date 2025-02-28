@@ -7,3 +7,8 @@ Un menú francés destaca por su refinamiento y la armonía de sus sabores, dond
 - **Coq au Vin**: Pollo cocido a fuego lento en vino tinto, con cebollas, champiñones, panceta y hierbas, creando un sabor profundo y sabroso.
 - **Boeuf Bourguignon**: Carne de res estofada en vino tinto con zanahorias, cebollas y hierbas, que resulta en un guiso tierno y rico en sabor.
 - **Magret de Pato**: Pechuga de pato servida con una salsa a base de frutas, como naranja o cereza, para equilibrar la riqueza de la carne con un toque dulce.
+
+## Bebidas Recomendadas
+- Vino tinto (Burdeos).
+- Champán.
+- Café francés (Café au Lait).
