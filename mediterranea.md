@@ -1,1 +1,4 @@
 # Menú Cocina Mediterránea
+
+## Descripción
+Un menú mediterráneo se caracteriza por ingredientes frescos y saludables, destacando el uso de aceite de oliva, hierbas frescas como el orégano y el romero, y una amplia variedad de frutas, verduras y pescados. Los sabores son suaves pero vibrantes, con un equilibrio entre lo salado, lo ácido y lo herbáceo, como en el hummus (pasta de garbanzo), la ensalada griega con queso feta, tomate y aceitunas, y los platos a base de pescado y mariscos asados o a la parrilla, como la paella o la grilled sardines. Ingredientes como el limón, el ajo y el vinagre aportan frescura, mientras que el yogur se utiliza en muchas preparaciones, tanto dulces como saladas, para agregar cremosidad y suavidad.
