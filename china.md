@@ -7,3 +7,8 @@ Un menú chino se caracteriza por una rica combinación de sabores salados, dulc
 - **Pato Pekín**: Pato asado crujiente servido con tortillas, cebollín y salsa hoisin, creando una combinación de texturas y sabores únicos.
 - **Mapo Tofu**: Tofu suave en una salsa picante y sabrosa con carne de cerdo o res, destacando el sabor umami y el toque picante de los chiles.
 - **Cerdo Agridulce**: Cerdo frito cubierto con una salsa dulce y ácida que equilibra perfectamente el sabor salado y el toque de vinagre.
+
+## Bebidas Recomendadas
+- Té de jazmín
+- Bebida de lichi
+- Té verde
