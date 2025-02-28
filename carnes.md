@@ -7,3 +7,8 @@ Un menú de carnes se destaca por el uso de cortes de carne de alta calidad como
 - **Filete a la parrilla**: Un jugoso corte de carne de res, sazonado con sal, pimienta y hierbas, asado a la parrilla para resaltar su sabor ahumado y tierno.
 - **Costillas a la barbacoa**: Costillas de cerdo cocinadas a fuego lento y bañadas en una rica salsa barbacoa, con un sabor dulce y ahumado que se derrite en la boca.
 - **Cordero al romero**: Suaves costillas de cordero marinadas en ajo, romero y aceite de oliva, luego asadas hasta quedar perfectamente doradas y jugosas.
+
+## Bebidas Recomendadas
+- Vino tinto (Cabernet Sauvignon).
+- Cerveza artesanal.
+- Cóctel Old Fashioned.
