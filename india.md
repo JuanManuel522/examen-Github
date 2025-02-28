@@ -7,3 +7,8 @@ Un menú de la India es una explosión de sabores intensos y complejos, donde pr
 - **Biryani**: Un aromático arroz especiado cocinado con carne (pollo, cordero o pescado), frutos secos y una mezcla de especias como comino y cardamomo, ofreciendo una experiencia rica y sabrosa.
 - **Pollo Makhani**: Un suave pollo cocido en una cremosa salsa de tomate con especias como el garam masala y el cilantro, creando un plato suave y ligeramente dulce.
 - **Samosas**: riángulos crujientes rellenos de una mezcla de patatas, guisantes y especias, fritos hasta dorarse y servidos con salsas picantes o dulces, perfectos para un aperitivo sabroso.
+
+## Bebidas Recomendadas
+- Lassi (dulce o salado).
+- Chai (té masala).
+- Nimbu Pani (agua de limón con especias).
