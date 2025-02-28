@@ -12,3 +12,7 @@ Un menú de postres se caracteriza por la combinación de sabores dulces, cremos
 - Café espresso.
 - Cóctel de frutas.
 - Té de hierbas (manzanilla o menta).
+
+## Consejos
+- Usa ingredientes frescos para mejores resultados.
+- Acompaña con Tartar de salmón para una experiencia completa.
