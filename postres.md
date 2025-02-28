@@ -7,3 +7,8 @@ Un menú de postres se caracteriza por la combinación de sabores dulces, cremos
 - **Tarta de manzana**: Masa crujiente rellena de manzanas caramelizadas con canela y azúcar, servida con una capa suave de crema o helado.
 - **Mousse de chocolate**: Un postre ligero y esponjoso hecho con chocolate negro, nata y huevos, con un sabor intenso y cremoso.
 - **Flan de vainilla**: Un suave flan a base de leche, azúcar, huevos y vainilla, con una capa de caramelo que añade dulzura y textura.
+
+## Bebidas Recomendadas
+- Café espresso.
+- Cóctel de frutas.
+- Té de hierbas (manzanilla o menta).
