@@ -7,3 +7,8 @@ Un menú vegetariano se centra en ingredientes frescos y naturales, destacando e
 - **Falafel**: Bolitas fritas hechas de garbanzos triturados y mezclados con ajo, perejil y especias, servidas con pan pita y salsas como el tahini o el yogur.
 - **Curry de vegetales**: Una mezcla de verduras como zanahorias, papas, espinacas y tomates, cocinadas con una salsa rica en cúrcuma, jengibre, comino y curry, acompañada de arroz basmati.
 - **Ensalada de quinoa**: Quinoa cocida mezclada con pepino, tomate, aguacate, garbanzos y aderezada con aceite de oliva, limón y hierbas frescas como cilantro y perejil.
+
+## Bebidas Recomendadas
+- Limonada fresca.
+- Smoothie de frutos rojos.
+- Té verde frío.
