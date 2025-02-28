@@ -12,3 +12,7 @@ Un menú vegetariano se centra en ingredientes frescos y naturales, destacando e
 - Limonada fresca.
 - Smoothie de frutos rojos.
 - Té verde frío.
+
+## Consejos
+- Usa ingredientes frescos para mejores resultados.
+- Acompaña con Ensalada de garbanzos y pepino para una experiencia completa.
