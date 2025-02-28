@@ -1,1 +1,4 @@
 # Menú Cocina Francesa
+
+## Descripción
+Un menú francés destaca por su refinamiento y la armonía de sus sabores, donde se utilizan ingredientes frescos y de calidad como mantequilla, crema, hierbas finas, quesos como el brie y el roquefort, y carnes delicadas como pato, cordero y pollo. Los sabores varían entre lo salado, como en el coq au vin o el boeuf bourguignon, y lo dulce, como en crêpes o tartas de frutas. La mostaza, el vino y el ajo son ingredientes comunes que aportan profundidad a los platos. Técnicas culinarias como el sauté, el braisé y el horneado permiten resaltar la frescura y la calidad de los ingredientes, creando una experiencia gastronómica sofisticada y equilibrada.
